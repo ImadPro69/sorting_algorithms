@@ -1,10 +1,7 @@
 #include "sort.h"
 
 /**
- * swapme - swap the nodes themselves.
- * @current: pointer.
- * @current_old: pointer.
- * @list: doubly linked list
+ * swapme - swap the nodes T hemselves
  */
 void swapme(listint_t *current, listint_t *current_old, listint_t **list)
 {
