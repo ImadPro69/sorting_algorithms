@@ -1,10 +1,10 @@
 #include "sort.h"
 
 /**
- * quick_sort - Sorts an array of integers in ascending
- * order using the Quick sort algorithm
+ * quick_sort - Sorts an array of Integers in ascending
+ * order using the Quick sort Algorithm
  * @array: array with elements
- * @size: size of array
+ * @size: size of Array
  *
  * Return: Nothing
  */
@@ -14,10 +14,10 @@ void quick_sort(int *array, size_t size)
 }
 
 /**
- * rec_func - Creates multiple recursions to send to lomuto_partition
+ * rec_func - Creates multiple recursions to Send to lomuto_partition
  * @array: array with elements
- * @start: index of the first element
- * @end: index of the last element
+ * @start: index of the first Element
+ * @end: index Of the last element
  * @size: size of array
  *
  * Return: Nothing
