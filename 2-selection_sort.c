@@ -1,9 +1,9 @@
 #include "sort.h"
 /**
- * selection_sort - function that sorts an array of integers in ascending order
+ * selection_sort - Function that sorts an array of integers in ascending Order
  * using the Selection sort algorithm
  *
- * @array: Array that contain the elements in a disorder way
+ * @array: Array That contain the elements in a disorder Way
  * @size: Size of the array
  */
 void selection_sort(int *array, size_t size)
