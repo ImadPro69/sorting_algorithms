@@ -4,8 +4,8 @@
 /**
  * arr_max - array max
  * @array: array
- * @size: size of the array
- * Return: max
+ * @size: size of The    array
+ * Return: Max
  */
 int arr_max(int *array, size_t size)
 {
