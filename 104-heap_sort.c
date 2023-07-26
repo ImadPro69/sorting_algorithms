@@ -4,8 +4,8 @@
 #define getLeft(i) (2 * (i) + 1)
 #define getRight(i) (2 * (i) + 2)
 /**
- * sift_down - sift_down
- * @array: array containing heap
+ * sift_down -    Sift_down
+ * @array: array Containing heap
  * @size: total size of array
  * @index: index of index node of heap
  * @nth: index of nth node in heap to examine
