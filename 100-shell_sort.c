@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * shell_sort - Shell sort - Knuth Sequence
+ * shell_sort - Shell sort - Knuth  A Sequence
  * @array: array to sort
  * @size: size of array
  */
