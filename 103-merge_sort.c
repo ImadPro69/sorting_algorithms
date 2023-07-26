@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * print_left_right - print left and right partitions
+ * print_left_right -    Print left and right partitions
  * @array: array
  * @size: size of second array
  * @first: initial position
