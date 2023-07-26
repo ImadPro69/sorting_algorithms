@@ -1,8 +1,8 @@
 #include "sort.h"
 
 /**
- * partition_h - array partition
- * @array: array to sort
+ * partition_h -   Array partition
+ * @array: array To sort
  * @first: first position
  * @last: last position
  * @size: array size
